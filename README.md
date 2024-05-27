@@ -7,12 +7,13 @@ Esta página fala sobre a nova obra do mangaká Katsuhiro Otomo, criador de Akir
 
 ## 🤖 Tecnologias Utilizadas
 Openai ChatGpt 
-Cr**ai**yon
+Craiyon
 Visual Studio Code
 Photoshop
 
 ## 🧐 Processo de Criação
--Primeiramente usei o Crayon (<craiyon.com>) para gerar as imagens de acordo com idéia que eu tinha em mente. -Logo depois, pedi para o Chat Gpt (<chat.openai.com>) criar uma matéria a partir dessa idéia.
+-Primeiramente usei o Crayon (craiyon.com) para gerar as imagens de acordo com idéia que eu tinha em mente.
+-Logo depois, pedi para o Chat Gpt (chat.openai.com) criar uma matéria a partir dessa idéia.
 -Com a matéria criada, recorri ao Chat Gpt novamente para criar o HTML e CSS da página.
 -Em seguida, copiei os códigos HTML e CSS da página e fiz alguns ajustes utilizando o Visual Studio Code.
 -Utilizei o Photoshop para criar uma logo e colocá-la em uma das imagens geradas pelo Craiyon e finalizei colocando as imagens no arquivo HTML.
