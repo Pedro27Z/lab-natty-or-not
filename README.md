@@ -1,51 +1,32 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Anime e Mangá News
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto eu criei uma página web sobre mangás e animes.
+Esta página fala sobre a nova obra do mangaká Katsuhiro Otomo, criador de Akira.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Openai ChatGpt 
+Cr**ai**yon
+Visual Studio Code
+Photoshop
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+-Primeiramente usei o Crayon (<craiyon.com>) para gerar as imagens de acordo com idéia que eu tinha em mente. -Logo depois, pedi para o Chat Gpt (<chat.openai.com>) criar uma matéria a partir dessa idéia.
+-Com a matéria criada, recorri ao Chat Gpt novamente para criar o HTML e CSS da página.
+-Em seguida, copiei os códigos HTML e CSS da página e fiz alguns ajustes utilizando o Visual Studio Code.
+-Utilizei o Photoshop para criar uma logo e colocá-la em uma das imagens geradas pelo Craiyon e finalizei colocando as imagens no arquivo HTML.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+A utilização do Crayon permitiu a criação de imagens impactantes que complementam perfeitamente a narrativa do artigo. 
+
+A colaboração com o Chat GPT resultou em uma matéria bem escrita e um código HTML/CSS estruturado e fácil de implementar.
+
+A adição da logo criada no Photoshop deu um toque profissional e uma identidade visual coesa à página.
+
+A edição final e ajustes realizados no Visual Studio Code garantiram que a página fosse personalizada e otimizada.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O uso dessas tecnologias e ferramentas permite um fluxo de trabalho rápido e eficiente. Entretanto, acredito eu que somente com  a colaboração entre o ser humano e essas ferramentas é que poderemos ter projetos realmente criativos e técnicos. 
+
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
